@@ -1,6 +1,6 @@
 # ReactRedux.ts
 
-## This is a template for CRUDy React Components using Redux-Thunk to quickly create new Components for your React-Redux Application's Front End
+## This is a template for CRUDy React Components that use Redux-Thunk and TypeScript. This template will allow you to quickly create new Components for your React-Redux Application's Front End, using Find and Replace in the files.
 
 ### Important notes before you integrate this into your application
 Several files in this template are simply shell files. 
