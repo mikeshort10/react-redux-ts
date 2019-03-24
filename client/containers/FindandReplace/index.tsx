@@ -1,8 +1,3 @@
-// 1) See ../../state/modules/FindandReplace
-// 2) Find and Replace the term 'FindandReplace' with same name from corresponding redux file.
-// 3) Find and Replace the tern 'FindReplace' (no 'and') with your Component name. Can be different from corresponding redux file.
-// 4) Change name of this directory.
-
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { Dispatch, bindActionCreators } from 'redux';
