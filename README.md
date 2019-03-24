@@ -2,7 +2,7 @@
 
 ## This is a template for CRUDy React Components using Redux-Thunk to quickly create new Components for your React-Redux Application's Front End
 
-###Important notes before you integrate this into your application
+### Important notes before you integrate this into your application
 Several files in this template are simply shell files. 
 
 1. Bootstrap is not installed in this directory.
