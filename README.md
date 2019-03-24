@@ -21,9 +21,8 @@ Several files in this template are simply shell files.
 5. Change name of the FindandReplace directory.
 
 #### In ./client/containers/FindandReplace/index.tsx: 
-6. See ../../state/modules/FindandReplace
-7. Find and Replace the term _FindandReplace_ with same name from corresponding redux file.
-8. Find and Replace the tern _FindReplace_ (no _and_) with your Component name. Can be different from corresponding redux file.
-9. Change name of the FindandReplace directory.
+6. Find and Replace the term _FindandReplace_ with same name from corresponding redux file.
+7. Find and Replace the tern _FindReplace_ (no _and_) with your Component name. Can be different from corresponding redux file.
+8. Change name of the FindandReplace directory.
 
 #### Change the relative paths referenced in each of these files as needed.
