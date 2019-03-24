@@ -1,0 +1,46 @@
+{
+  "name": "reactredux.ts",
+  "version": "1.0.0",
+  "description": "A template for async react-redux components written in typescripts for quick set up",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeshort10/react-redux-ts.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "typescript",
+    "template",
+    "quick",
+    "startup",
+    "async"
+  ],
+  "author": "Mike Short",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeshort10/react-redux-ts/issues"
+  },
+  "homepage": "https://github.com/mikeshort10/react-redux-ts#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "classnames": "^2.2.6",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5",
+    "react-redux": "^6.0.1",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "sass": "^1.17.3"
+  },
+  "devDependencies": {
+    "@types/node": "^11.11.6",
+    "@types/react": "^16.8.8",
+    "@types/react-dom": "^16.8.3",
+    "@types/react-redux": "^7.0.5",
+    "@types/redux": "^3.6.0",
+    "typescript": "^3.3.4000"
+  }
+}
