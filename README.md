@@ -14,7 +14,7 @@ Several files in this template are simply shell files.
 ### Customizing your files after adding them to your application.
 
 #### In See ./client/state/modules/FindandReplace
-1. Find and Replace the term _FindandReplace_ with UpperCamelCase name for reducer and corresponding action creators and handlers.
+1. Find and Replace the term *_FindandReplace_* with UpperCamelCase name for reducer and corresponding action creators and handlers.
 2. Find and Replace the tern _FindReplace_ (no _and_) with UPPERCASE name for action types.
 3. Find and Replace _endpoint_ to correctly interact with your server.
 4. Change `host` value to your domain. Default set equal `http://localhost:3000/`
